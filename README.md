@@ -1,10 +1,10 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Solarise your Goals 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ByteBrigade
 
 
 ### Team Members
@@ -62,46 +62,27 @@ npm start
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![alt text](image.png)
+Splash screen featuring animated sun icon and gradient background. The main entry point of the application with a welcoming message and "Begin Your Solar Journey" button.
 
+![alt text](image-1.png)
+User information collection form showing input fields for name, location (with geolocation support), and preferred solar time. Features a clean card-based design with validation.
 
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image-2.png)
+Main calculator interface displaying user profile, goal input, preset goals, and calculated solar metrics in a grid layout. Shows real-time updates of energy calculations
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![alt text](image-3.png)
 
-For Hardware:
+The app's workflow begins with user entry on a splash screen, followed by a User Info Form for name, location, and time preferences. Users then enter their goal into the Goal Calculator, which provides a humorous "solar energy needed" calculation with preset goals and custom metrics for a fun, interactive experience.
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1d58owAvWrpQ02lHL8qeYZnoLlBGuGvq-/view?usp=drive_link
+This demo video showcases the Solarize My Goals app, designed to entertain users by calculating the “solar energy” they’d need to accomplish any life goal in the most absurd and amusing way. The video starts with the User Entry at the splash screen, leading to the User Info Form where users input their name, location, and time preferences. Next, users enter or choose a goal, triggering the Goal Calculator to provide a custom energy estimate based on the unique "solar requirements" for each ambition. This includes a mix of preset goals and tailored inputs, displayed with a lively summary of solar energy metrics. The video wraps up by highlighting energy calculation, making the entire experience both innovative and entertainingly useless.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Shanthanu S Nair: Frontend
@@ -112,6 +93,3 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
-
-
