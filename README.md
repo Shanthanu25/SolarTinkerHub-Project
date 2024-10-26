@@ -29,8 +29,6 @@ For Software:
 - Tailwind CSS 3.x ,Lucide React, shadcn/ui 
 - npm/Node.js,,VS Code ,Chrome DevTools 
 
-For Hardware:
-- 
 
 ### Implementation
 For Software:
