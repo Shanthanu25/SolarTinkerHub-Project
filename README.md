@@ -8,46 +8,63 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Shanthanu S Nair] - [TKM College of engineering]
+- Member 2: [Shijin Kumar] - [TKM College of engineering]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+The Solarize Your Life Goals app is a tongue-in-cheek project that takes user-inputted life ambitions (like “become a rockstar” or “learn to speak whale”) and calculates the amount of imaginary solar energy needed to achieve these dreams. Every life goal, no matter how simple or complex, is hilariously “solarized” into an energy unit—proving just how much sunshine (in kWh) your dreams require!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Today, people underestimate the “solar power” needed to achieve life goals. How much energy is required to “run a marathon” or “launch a cat into space”? The world deserves to know these pointless but highly amusing calculations!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+With the Solarize Your Life Goals app, we calculate the solar energy required for any goal. By taking into account factors like the absurdity of the goal, location-based solar potential, and made-up “dream resistance,” we provide users with a unique and completely impractical answer to life’s biggest questions
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- TypeScript
+- Nextjs, React.js
+- Tailwind CSS 3.x ,Lucide React, shadcn/ui 
+- npm/Node.js,,VS Code ,Chrome DevTools 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+# Clone the repository
+git clone https://github.com/Shanthanu25/SolarTinkerHub-Project.git
+
+# Navigate to project directory
+cd solar\solar-goals
+
+# Install dependencies
+npm install
+
+# Install required shadcn/ui components
+npx shadcn-ui@latest add card
+npx shadcn-ui@latest add button
 
 # Run
-[commands]
+# Development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -87,9 +104,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shanthanu S Nair: Frontend
+- Shijin KUmar: Frontend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
